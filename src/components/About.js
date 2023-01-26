@@ -79,7 +79,7 @@ export default function About(props) {
 
                     </div>
                 </div>
-                    <div className="hire my-3"><a href="https://drive.google.com/file/d/1_GnyRR2mXoOm8ngHr1IHiYDLx2SqxPJg/view?usp=share_link" class="btn btn-info" role="button"target="_blank">Hire Me</a></div>
+                    <div className="hire my-3"><a href="https://drive.google.com/file/d/1_GnyRR2mXoOm8ngHr1IHiYDLx2SqxPJg/view?usp=share_link" class="btn btn-info" role="button" rel="noopener noreferrer" target="_blank">Hire Me</a></div>
             </div>
 
         </div>
