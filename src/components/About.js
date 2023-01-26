@@ -56,21 +56,21 @@ export default function About(props) {
                     </h2>
                     <div id="collapseThree" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                     <div className="accordion-body" style={myStyle}>
-                    <a class="btn" href="https://linkedin.com/in/PankajGupta2025" target="_blank"> 
+                    <a class="btn" href="https://linkedin.com/in/PankajGupta2025" rel="noopener noreferrer" target="_blank"> 
                     <FontAwesomeIcon icon={faLinkedin} style={{
   fontSize: "1.5em",
   boxShadow: "0 0 0 2px #ccc",color: props.mode ==='dark'?'white':'#042743',}} /></a> 
 
-                    <a class="btn" href="mailto:guptapankaj6363@gmail.com" target="_blank"> 
+                    <a class="btn" href="mailto:guptapankaj6363@gmail.com" rel="noopener noreferrer" target="_blank"> 
                     <FontAwesomeIcon icon={faGoogle} style={{
   fontSize: "1.5em",
   boxShadow: "0 0 0 2px #ccc",color: props.mode ==='dark'?'white':'#042743',}} /></a> 
 
-                    <a class="btn" href="https://www.instagram.com/pankajgupta_25/" target="_blank"> 
+                    <a class="btn" href="https://www.instagram.com/pankajgupta_25/" rel="noopener noreferrer" target="_blank"> 
                     <FontAwesomeIcon icon={faInstagram} style={{
   fontSize: "1.5em",
   boxShadow: "0 0 0 2px #ccc",color: props.mode ==='dark'?'white':'#042743',}} /></a> 
-                    <a class="btn" href="https://twitter.com/PnkajGupta1" target="_blank"> 
+                    <a class="btn" href="https://twitter.com/PnkajGupta1" rel="noopener noreferrer" target="_blank"> 
                     <FontAwesomeIcon icon={faTwitter} style={{
   fontSize: "1.5em",
   boxShadow: "0 0 0 2px #ccc",color: props.mode ==='dark'?'white':'#042743',}} /></a> 
